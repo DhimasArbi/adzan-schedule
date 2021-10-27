@@ -17,7 +17,7 @@ $(document).ready(function(){
 		    dataType    : 'html', // what type of data do we expect back from the server
 		    success : function(response){
 			      $('#load-content').html(response);
-			      alert('Sukses mengubah');
+			    //   alert('Sukses mengubah');
 			}
 		});
 	});

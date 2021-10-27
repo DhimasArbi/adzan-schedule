@@ -6,7 +6,7 @@
 class Adzan
 {
 
-	public $default_city = 'Makassar';
+	public $default_city = 'Malang';
 	
 	function get_data($kota,$bulan){
 
