@@ -30,6 +30,8 @@
 					<option value="Jakarta">Jakarta</option>
 					<option value="Bandung">Bandung</option>
 					<option value="Surabaya">Surabaya</option>
+					<option value="Malang">Malang</option>
+					<option value="Nganjuk">Nganjuk</option>
 					<option value="Medan">Medan</option>
 					<option value="Ambon">Ambon</option>
 					<option value="Jayapura">Jayapura</option>
