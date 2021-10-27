@@ -278,6 +278,7 @@
   font-weight: 700;
   font-size: 0.75rem;
   background-image: none;
+  background : linear-gradient(to right, #6c5ce7,#8e44ad,#6c5ce7);
 }
 
 .u-section-2 .u-table-body-1 {
