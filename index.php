@@ -52,7 +52,7 @@ $total_row = $get_data[1];
           <div class="u-layout-row">
             <div class="u-container-style u-image u-layout-cell u-size-30 u-image-1" data-image-width="1200" data-image-height="1011">
               <div class="u-container-layout u-valign-bottom-xs u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-top-sm u-container-layout-1">
-                <img class="u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-expanded-width-xs u-image u-image-2" src="images/islamic-3640633_1280.png" data-image-width="1280" data-image-height="1030">
+                <img class="u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-expanded-width-xs u-image u-image-2" src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/tK5TnuUkHepw8u5etgwpVEisNhnXo45RnGVT4qBluSMMnwT_AKQIpaspFjUErzzs/n/axrealjxiwsc/b/web-storage/o/gambar1.png" data-image-width="1280" data-image-height="1030">
               </div>
             </div>
             <div class="u-align-center u-container-style u-layout-cell u-size-30 u-white u-layout-cell-2">
@@ -186,7 +186,7 @@ $total_row = $get_data[1];
   <footer class="u-align-center-md u-align-center-sm u-align-center-xs u-clearfix u-footer u-grey-80" id="sec-828e">
     <div class="u-clearfix u-sheet u-sheet-1">
       <a href="http://168.138.12.14/" class="u-image u-logo u-image-1" data-image-width="800" data-image-height="800" title="Pew" target="_blank">
-        <img src="images/logo-si-rubah-hitam-2018.png" class="u-logo-image u-logo-image-1">
+        <img src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/tK5TnuUkHepw8u5etgwpVEisNhnXo45RnGVT4qBluSMMnwT_AKQIpaspFjUErzzs/n/axrealjxiwsc/b/web-storage/o/logo.png" class="u-logo-image u-logo-image-1">
       </a>
       <div class="u-align-left u-social-icons u-spacing-10 u-social-icons-1">
         <a class="u-social-url" target="_blank" title="Github/DhimasArbi" href="https://github.com/DhimasArbi"><span class="u-icon u-social-github u-social-icon u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="">
